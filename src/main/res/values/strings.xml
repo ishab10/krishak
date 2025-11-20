@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">krishak</string>
+    <string name="seller_info_format">By %1$s • %2$s</string>
+    <string name="price_format">₹%1$s</string>
+</resources>
